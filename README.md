@@ -1,5 +1,7 @@
 # Wordpress
 
+*PLEASE NOTE THE WEBSITE IS NO LONGER ONLINE AS I CANCELLED SUBSCRIPTION*
+
 Step 1: Install WordPress and a theme
 Chalets and Caviar, an agency in Aspen, Colorado, has hired you to create their website. It has around 15 luxury chalets for sale and other chalets available to rent.
 
